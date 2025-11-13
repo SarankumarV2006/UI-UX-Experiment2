@@ -3,43 +3,21 @@
 To design an elegant, modern, and eco-conscious digital interface for “GreenSip Smoothies”, a brand specializing in organic, fresh, and healthy beverages. The goal is to reflect freshness, sustainability, and vitality through colors, layout, and interactive elements, ensuring a seamless experience on both web and mobile platforms.
 
 ## Algorithm:
-I. Visual Design & Structure
+1.I began by choosing a clean white artboard in Figma to design the logo.
 
-Grouping: Organize related elements such as smoothie flavors, nutritional details, and offers together.
+2.I added a leaf icon to represent freshness and nature, and filled it with a green gradient.
 
-Hierarchy: Use large, bold titles for featured products and smaller text for descriptions.
+3.I typed the brand name “GreenTaste” using a bold sans-serif font in dark green (#1B5E20).
 
-Flow: Guide users from brand introduction (Hero Banner) → product catalog (best-sellers) → testimonials → final call-to-action (Order / Subscribe).
+4.Below it, I added “SMOOTHIES” in uppercase with a lighter green color (#4CAF50) and spaced letters evenly.
 
-II. Platform Specifics Web:
+5.I aligned all elements neatly and adjusted spacing for balance.
 
-Hero Section: Display a vibrant image of fresh fruits and smoothies with a “Blend of Nature & Taste” tagline.
-
-Navigation Bar: Include links like Home, Flavors, Health Benefits, Order Now, Contact. Highlight “Order Now” in green.
-
-Content Display: Use a 3-column card grid for smoothies showing images, price, and “Add to Cart” button.
-
-Mobile:
-
-Use a hamburger menu (≡) for navigation.
-
-Show smoothie cards in a scrollable vertical format.
-
-Keep a floating “Order Now” button for quick access.
-
-III. Interactivity & Branding
-
-Color Palette: Shades of green, white, and orange to symbolize freshness and energy.
-
-Hover Effects: Smooth scale-up animation for product cards.
-
-Typography: Modern sans-serif font with natural tone headings.
-
-Logo Placement: Place the GreenSip leaf logo on the top-left corner and use it as a watermark in background patterns.
+6.Finally, I exported the logo in PNG format with a transparent background.
 
 ## Output:
 
-<img width="1408" height="974" alt="Screenshot 2025-11-13 133902" src="https://github.com/user-attachments/assets/1e233574-e24f-4b8a-840b-4092678c6baa" />
+<img width="675" height="245" alt="image" src="https://github.com/user-attachments/assets/bc8c9561-1f25-478e-bbcc-b3f6e16efb25" />
 
 
 ## Result:
